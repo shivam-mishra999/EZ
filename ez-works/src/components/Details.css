@@ -1,0 +1,40 @@
+.logo {
+    margin-bottom: 40px;
+} 
+
+.logo img {
+    width: 517px;
+    height: 145px;
+}
+
+.heading {
+    font-size: 48px;
+    color: #112949;
+    width: 100%;
+    height: auto;
+    opacity: 1;
+    margin-bottom: 73px;
+    word-wrap: break-word;
+}
+
+.heading p{
+    margin: 0;
+    word-wrap: break-word;
+}
+
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    width: 760px;
+    height: auto;
+    letter-spacing: 0px;
+    color: #112949;
+    opacity: 1;
+    text-align: left;
+    margin-bottom: 40px;
+}
+
+.content p {
+    margin: 0;
+}
+
